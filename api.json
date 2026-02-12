@@ -1,0 +1,437 @@
+{
+  "category": "INTERNET_FOLKLORE",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/russian-sleep-experiment",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "russian-sleep-experiment",
+    "name": "The Russian Sleep Experiment",
+    "aliases": [
+      {
+        "name": "Orange Soda Experiment",
+        "language": "English",
+        "region": "Internet",
+        "meaning": "Early variation of the story"
+      },
+      {
+        "name": "Soviet Sleep Deprivation Experiment",
+        "language": "English",
+        "region": "Internet"
+      }
+    ],
+    "category": "INTERNET_FOLKLORE",
+    "subcategory": "Creepypasta",
+    "tags": [
+      "creepypasta",
+      "horror-fiction",
+      "internet-legend",
+      "cold-war",
+      "psychological-horror",
+      "body-horror",
+      "soviet-union",
+      "science-gone-wrong",
+      "documented-fiction"
+    ],
+    "status": "documented_fiction",
+    "fictional_creation": true,
+    "origin_type": "creepypasta",
+    "creation_date": "2010",
+    "description": {
+      "summary": "**FICTION**: A famous creepypasta from 2010 about Soviet researchers conducting a sleep deprivation experiment on five test subjects in the 1940s. The story is entirely fictional with no historical basis, though often mistaken for real events.",
+      "full": "**THIS IS DOCUMENTED FICTION - NOT A REAL HISTORICAL EVENT**: The Russian Sleep Experiment is one of the most famous creepypastas in internet folklore. The story describes Soviet researchers in the late 1940s testing an experimental gas-based stimulant on five political prisoners, keeping them awake for 15 days in a sealed chamber. According to the fictional narrative, the subjects descended into madness and self-mutilation. Despite being completely fabricated, the story has been widely shared and is frequently mistaken for genuine historical documentation. The creepypasta was first posted to the Creepypasta Wiki around 2010, with the original author remaining unknown. It has become a cornerstone of internet horror fiction and demonstrates the power of digital storytelling to create believable fictional narratives."
+    },
+    "etymology": {
+      "origin": "The story title emerged from creepypasta forums circa 2010, capitalizing on Cold War-era anxieties and interest in unethical experiments.",
+      "meaning": "Named for the fictional Soviet experiment described in the narrative",
+      "first_use": "~2010"
+    },
+    "authenticity": {
+      "status": "completely_fictional",
+      "evidence_of_fiction": [
+        "No historical records of such experiments",
+        "Soviet archives contain no references",
+        "Story elements contradict known physiology",
+        "Originated on fiction-sharing website",
+        "No verifiable sources cited in original",
+        "Acknowledged as creative fiction by creepypasta community"
+      ],
+      "common_misconceptions": [
+        "Often shared as 'true' story on social media",
+        "Frequently appears in 'mysterious experiments' compilations",
+        "Sometimes cited as 'declassified' Soviet document",
+        "Confused with real unethical experiments (MKUltra, Unit 731)"
+      ]
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "INTERNET_FOLKLORE",
+      "type": "Creepypasta",
+      "subtype": "Horror Fiction",
+      "variant": "Faux Historical Document"
+    },
+    "related_phenomena": [
+      {
+        "id": "slenderman",
+        "name": "Slenderman",
+        "relationship": "similar",
+        "description": "Another famous internet-created fictional entity"
+      },
+      {
+        "id": "scp-foundation",
+        "name": "SCP Foundation",
+        "relationship": "related",
+        "description": "Collaborative fiction project with similar documentary style"
+      },
+      {
+        "id": "smile-dog",
+        "name": "Smile Dog",
+        "relationship": "similar",
+        "description": "Contemporary creepypasta from similar era"
+      },
+      {
+        "id": "jeff-the-killer",
+        "name": "Jeff the Killer",
+        "relationship": "similar",
+        "description": "Popular creepypasta character from same period"
+      }
+    ]
+  },
+
+  "narrative_structure": {
+    "story_elements": {
+      "setting": "Late 1940s Soviet Union (fictional)",
+      "subjects": "Five political prisoners (fictional)",
+      "duration": "15 days (as per narrative)",
+      "method": "Gas-based stimulant (fictional)",
+      "location": "Sealed chamber (fictional)",
+      "outcome": "Descent into madness and body horror (fictional)"
+    },
+    "narrative_techniques": [
+      {
+        "technique": "Faux documentation",
+        "description": "Written as historical account to create verisimilitude",
+        "effectiveness": "high"
+      },
+      {
+        "technique": "Cold War setting",
+        "description": "Exploits real anxieties about Soviet experiments",
+        "effectiveness": "high"
+      },
+      {
+        "technique": "Gradual escalation",
+        "description": "Horror builds from psychological to physical",
+        "effectiveness": "high"
+      },
+      {
+        "technique": "Ambiguous ending",
+        "description": "Famous final lines leave interpretation open",
+        "effectiveness": "high"
+      }
+    ],
+    "themes": [
+      "Sleep deprivation consequences",
+      "Government experimentation ethics",
+      "Loss of humanity",
+      "Body horror",
+      "Psychological breakdown",
+      "Scientific hubris"
+    ]
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Global internet distribution since 2010. Most prevalent on English-language horror fiction websites, social media, and video platforms.",
+      "platforms": [
+        "Creepypasta Wiki",
+        "Reddit (r/nosleep, r/creepypasta)",
+        "YouTube (narration videos)",
+        "Facebook",
+        "Twitter",
+        "Tumblr"
+      ],
+      "languages": [
+        "English (original)",
+        "Spanish",
+        "Portuguese",
+        "Russian",
+        "French",
+        "German",
+        "Multiple other translations"
+      ]
+    },
+    "viral_spread": [
+      {
+        "platform": "Creepypasta Wiki",
+        "peak_period": "2010-2012",
+        "reach": "Original posting site, hundreds of thousands of views"
+      },
+      {
+        "platform": "YouTube",
+        "peak_period": "2012-2016",
+        "reach": "Millions of views across narration channels"
+      },
+      {
+        "platform": "Social Media",
+        "peak_period": "2013-present",
+        "reach": "Widespread sharing as 'true story'"
+      }
+    ],
+    "temporal": {
+      "first_posted": {
+        "date": "2010",
+        "circa": true,
+        "source": "Creepypasta Wiki"
+      },
+      "peak_virality_periods": [
+        {
+          "period": "2010-2013",
+          "description": "Initial spread through horror fiction communities"
+        },
+        {
+          "period": "2014-2017",
+          "description": "YouTube narration channels drive mainstream awareness"
+        },
+        {
+          "period": "2018-present",
+          "description": "Continued circulation, often misrepresented as real"
+        }
+      ]
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Born from creepypasta culture of early 2010s internet. Draws on real historical anxieties about Cold War-era human experiments and builds on documented cases of unethical research (MKUltra, Tuskegee, Unit 731).",
+      "earliest_accounts": "First posted to Creepypasta Wiki circa 2010. Original author unknown.",
+      "folklore_connections": "Connects to broader tradition of 'mad scientist' narratives and government conspiracy theories."
+    },
+    "timeline": [
+      {
+        "date": "2010",
+        "event": "Story first posted",
+        "significance": "Original posting to Creepypasta Wiki, author unknown",
+        "source": "Creepypasta Wiki archives"
+      },
+      {
+        "date": "2010-2012",
+        "event": "Early spread through horror forums",
+        "significance": "Gains popularity in creepypasta community",
+        "source": "Forum archives"
+      },
+      {
+        "date": "2012-2015",
+        "event": "YouTube narration boom",
+        "significance": "Story reaches mainstream through narration channels",
+        "source": "YouTube analytics"
+      },
+      {
+        "date": "2014",
+        "event": "Widespread social media sharing",
+        "significance": "Frequently shared as 'real' story, fact-checks begin appearing",
+        "source": "Social media tracking"
+      },
+      {
+        "date": "2015-present",
+        "event": "Misrepresentation as history",
+        "significance": "Continues to circulate as 'true' story despite debunking",
+        "source": "Ongoing social media presence"
+      }
+    ],
+    "modern_era": "The Russian Sleep Experiment remains one of the most recognized creepypastas. It has inspired fan art, short films, analysis videos, and academic discussion of internet folklore. The story serves as a case study in how digital narratives can blur the line between fiction and perceived reality."
+  },
+
+  "cultural_impact": {
+    "influence_metrics": {
+      "estimated_reach": "Tens of millions globally",
+      "youtube_views": "Millions across multiple channels",
+      "translations": "10+ languages",
+      "adaptations": "Multiple short films, audio dramas, artwork"
+    },
+    "derivatives": [
+      {
+        "type": "Short films",
+        "description": "Multiple YouTube short film adaptations",
+        "examples": ["Various independent productions"]
+      },
+      {
+        "type": "Audio drama",
+        "description": "Narrated versions by CreepyPasta channels",
+        "examples": ["CreepsMcPasta", "MrCreepyPasta"]
+      },
+      {
+        "type": "Visual art",
+        "description": "Extensive fan art depicting scenes from story",
+        "examples": ["DeviantArt community creations"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Creepypasta tradition of collaborative horror fiction",
+        "Internet urban legends",
+        "Digital campfire stories"
+      ],
+      "stories": [
+        "Original creepypasta narrative",
+        "Fan-created expansions and prequels",
+        "Derivative works and reimaginings"
+      ],
+      "beliefs": "While recognized as fiction in horror communities, frequently mistaken for real history by casual social media users."
+    },
+    "popular_culture": {
+      "literature": [
+        "Included in creepypasta anthologies",
+        "Referenced in analyses of internet folklore",
+        "Subject of academic papers on digital storytelling"
+      ],
+      "film_tv": [
+        "Multiple YouTube short film adaptations",
+        "Referenced in horror analysis videos",
+        "Discussed in internet culture documentaries"
+      ],
+      "other": [
+        "Extensive fan art community",
+        "Merchandise (t-shirts, posters)",
+        "Cosplay and Halloween costumes",
+        "Video game mods and indie games inspired by story"
+      ]
+    },
+    "academic_interest": {
+      "fields": [
+        "Digital folklore studies",
+        "Internet culture research",
+        "Narrative theory",
+        "Media literacy studies"
+      ],
+      "significance": "Used as case study for how internet narratives create and spread modern folklore, and how fiction becomes mistaken for fact in digital age."
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Dr. Lynne McNeill",
+        "affiliation": "Utah State University",
+        "contribution": "Folklore studies of creepypasta and internet legends",
+        "period": "2010s-present"
+      },
+      {
+        "name": "Dr. Andrew Peck",
+        "affiliation": "Independent researcher",
+        "contribution": "Analysis of creepypasta as digital folklore",
+        "period": "2010s-present"
+      },
+      {
+        "name": "Trevor J. Blank",
+        "affiliation": "SUNY Potsdam",
+        "contribution": "Folklore and the Internet studies",
+        "period": "2010s-present"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Creepypasta Wiki",
+        "url": "https://creepypasta.fandom.com",
+        "focus": "Collaborative horror fiction repository"
+      },
+      {
+        "name": "Know Your Meme",
+        "url": "https://knowyourmeme.com",
+        "focus": "Internet meme and culture documentation"
+      }
+    ],
+    "fact_checking": [
+      {
+        "source": "Snopes",
+        "status": "False",
+        "url": "Various fact-check articles",
+        "conclusion": "No evidence of real experiment, confirmed as fiction"
+      }
+    ]
+  },
+
+  "debunking": {
+    "why_its_fiction": [
+      {
+        "point": "No historical records",
+        "explanation": "Extensive searches of Soviet archives reveal no such experiment. Post-Soviet document releases have been comprehensive."
+      },
+      {
+        "point": "Physiological impossibilities",
+        "explanation": "The story's description of extended wakefulness effects contradicts documented sleep deprivation research."
+      },
+      {
+        "point": "Origin on fiction website",
+        "explanation": "First appeared on Creepypasta Wiki, a site explicitly dedicated to horror fiction."
+      },
+      {
+        "point": "No verifiable sources",
+        "explanation": "Original post cites no documents, dates, or verifiable details."
+      },
+      {
+        "point": "Community acknowledgment",
+        "explanation": "Creepypasta community has always labeled it as fiction."
+      }
+    ],
+    "comparison_to_real_experiments": [
+      {
+        "name": "Randy Gardner sleep deprivation",
+        "description": "264 hours awake (1964), experienced hallucinations but no violence",
+        "relevance": "Shows real effects differ from fictional narrative"
+      },
+      {
+        "name": "Soviet sleep research",
+        "description": "USSR did conduct sleep studies but nothing matching the story",
+        "relevance": "Real Soviet research was documented and different"
+      }
+    ]
+  },
+
+  "sources": [
+    {
+      "id": "creepypasta-wiki-original",
+      "type": "website",
+      "title": "The Russian Sleep Experiment",
+      "source": "Creepypasta Wiki",
+      "date": "~2010",
+      "url": "https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment",
+      "note": "Original posting location"
+    },
+    {
+      "id": "know-your-meme",
+      "type": "website",
+      "title": "Russian Sleep Experiment",
+      "source": "Know Your Meme",
+      "url": "https://knowyourmeme.com/",
+      "note": "Documentation of meme spread"
+    },
+    {
+      "id": "peck-2015",
+      "type": "article",
+      "title": "The Memetic Possessive: Horror Fiction in the Age of Digital Reproduction",
+      "authors": ["Andrew Peck"],
+      "date": "2015",
+      "note": "Academic analysis of creepypasta"
+    }
+  ]
+}
