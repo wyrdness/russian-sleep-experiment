@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/russian-sleep-experiment",
     "maintainers": [
       {
@@ -16,111 +16,241 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "russian-sleep-experiment",
     "name": "The Russian Sleep Experiment",
-    "aliases": [],
-    "category": "INTERNET_FOLKLORE",
-    "subcategory": "Horror Fiction",
-    "tags": [
-      "folklore",
-      "mythology"
+    "aliases": [
+      { "name": "Soviet Sleep Experiment" },
+      { "name": "Orange Soda story", "meaning": "after the original Creepypasta Wiki author handle" }
     ],
-    "status": "documented",
+    "category": "URBAN_LEGEND",
+    "subcategory": "Internet creepypasta / horror fiction",
+    "tags": [
+      "creepypasta",
+      "internet-folklore",
+      "horror-fiction",
+      "soviet-setting",
+      "sleep-deprivation",
+      "hoax",
+      "viral-story"
+    ],
+    "status": "debunked",
     "description": {
-      "summary": "The fictional narrative describes the subjects' gradual descent into madness, self-mutilation, and horrific violence.",
-      "full": "The fictional narrative describes the subjects' gradual descent into madness, self-mutilation, and horrific violence. Written in the style of a declassified document, the story's pseudo-historical framing has led many readers to believe it describes real events, despite being entirely fabricated. The story has been translated into numerous languages, adapted into short films, narrated on YouTube by channels with millions of subscribers, and continues to circulate on social media — often shared as if it were factual history. It represents a defining example of internet-age folklore and the blurring of fiction and reality in digital spaces."
+      "summary": "A widely-shared internet horror story, posted to the Creepypasta Wiki on 10 August 2010, framed as a declassified record of a Soviet experiment in which prisoners kept awake for 15 days by a stimulant gas descend into psychotic violence. It is fiction; investigations by Snopes and others have repeatedly confirmed there is no such Soviet experiment.",
+      "full": "'The Russian Sleep Experiment' is one of the most-shared horror creepypastas of the early internet era. Originally posted on 10 August 2010 to the Creepypasta Wiki by a user with the handle 'OrangeSoda', the story claims to be a leaked record of a Soviet research project conducted between 1940 and 1951 in which five political prisoners are kept awake for fifteen days by a stimulant gas, sealed in a chamber and observed via microphone and one-way glass. The text describes the subjects' progressive psychosis, paranoid hallucinations, refusal to be allowed to sleep, self-mutilation, evisceration, and apparent transformation into superhumanly strong, near-immortal creatures. The story circulated on Reddit, YouTube narrations, Tumblr and link-aggregators, and is widely re-shared as if it were a genuine Soviet record. It is, however, fiction: there is no archival or scientific evidence of such an experiment, and Snopes, news.com.au, LiveAbout and the Creepypasta Wiki itself classify it as fabricated. The story has nonetheless been hugely influential, generating multiple novels and at least two feature-film adaptations and serving as a paradigm case of mistaken-for-true internet folklore in academic discussions of digital legend."
     },
     "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "Internet horror-fiction subculture (creepypasta), originally on the Creepypasta Wiki",
+      "meaning": "'Creepypasta' is a portmanteau of 'creepy' + 'copypasta' (text copy-pasted across forums); 'Russian Sleep Experiment' is descriptive of the framing.",
+      "first_use": "10 August 2010 on the Creepypasta Wiki"
     }
   },
+
   "classification": {
     "taxonomy": {
-      "category": "INTERNET_FOLKLORE",
-      "type": "Horror Fiction",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "category": "URBAN_LEGEND",
+      "type": "Internet creepypasta",
+      "subtype": "Faux-document horror fiction",
+      "variant": "Soviet science-horror"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "scp-foundation", "name": "SCP Foundation", "relationship": "similar", "description": "Faux-clinical horror fiction in document form, contemporaneous with the Russian Sleep Experiment in early creepypasta culture" },
+      { "id": "slender-man", "name": "Slender Man", "relationship": "similar", "description": "Major 2009-era internet legend, frequently cited alongside the Russian Sleep Experiment in studies of digital folklore" },
+      { "id": "philadelphia-experiment", "name": "Philadelphia Experiment", "relationship": "similar", "description": "Earlier 'secret government experiment' urban legend with comparable plausibility-by-redaction structure" },
+      { "id": "mk-ultra", "name": "MKULTRA", "relationship": "related", "description": "Real Cold-War psychological-experimentation programme often invoked to lend false plausibility to the Russian Sleep Experiment" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "features": [
+        { "feature": "Subjects in a sealed chamber", "description": "Five Soviet political prisoners locked in a sealed gas-chamber laboratory under microphone and one-way-glass observation", "frequency": "always" },
+        { "feature": "Stimulant gas exposure", "description": "An unnamed experimental gas claimed to prevent sleep for the duration of the test", "frequency": "always" },
+        { "feature": "Severe self-injury and evisceration", "description": "Subjects are described as tearing their own flesh, drinking blood, and removing organs while remaining alive", "frequency": "always" },
+        { "feature": "Transformation into hostile, near-immortal entities", "description": "By the end of the story the subjects exhibit superhuman strength and refuse anaesthetic that does not result in renewed sleep", "frequency": "always" }
+      ],
+      "morphology": "Within the fiction, the subjects are ordinary humans who undergo radical psychological and physiological deterioration; no consistent monster anatomy is given outside that narrative."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Forced wakefulness for 15 days", "description": "Central premise: the experimental gas keeps subjects continuously awake for fifteen days", "frequency": "always", "evidence_level": "speculation" },
+      { "ability": "Superhuman strength after the procedure", "description": "Subjects in the story display strength far beyond human norms by the end of the experiment", "frequency": "always", "evidence_level": "speculation" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "variable",
+      "disposition": "aggressive",
+      "social_structure": "variable",
+      "habitat_preference": ["fictional Soviet research facility"]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Internet-native phenomenon: originated on the Creepypasta Wiki and spread through English-language forums, Reddit, YouTube and Tumblr; subsequently translated into many languages.",
+      "continents": ["Global (internet)"],
+      "countries": ["United States (origin)", "Russia (story setting)"],
+      "regions": ["English-language internet horror communities"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Creepypasta Wiki",
+        "location": {
+          "description": "Original publication site (Wikidot, later Fandom) for the story",
+          "country": "United States"
+        },
+        "peak_period": "2010–2015",
+        "notes": "Hosts the canonical text and edit history of the story"
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
+        "date": "2010-08-10",
+        "circa": false,
+        "source": "Creepypasta Wiki edit history; Snopes 2019 fact-check"
+      },
+      "peak_activity_periods": [
+        { "period": "2010–2018", "description": "Mass virality on YouTube horror narration channels and Reddit; entrenchment as one of the canonical creepypastas" }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Late-2000s creepypasta subculture, which adapted earlier horror chain-emails and 4chan posts into a sustained collaborative literary form.",
+      "earliest_accounts": "First posted to the Creepypasta Wiki on 10 August 2010 by a user with the handle 'OrangeSoda'; the underlying author's identity is not publicly verified.",
+      "folklore_connections": "Builds on Cold-War conspiracy folklore (MKULTRA, Philadelphia Experiment, secret Soviet science) and on the older horror trope of the experiment-gone-wrong."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "2010-08-10", "event": "User 'OrangeSoda' posts 'The Russian Sleep Experiment' on the Creepypasta Wiki", "significance": "Canonical first publication", "source": "Creepypasta Wiki edit history" },
+      { "date": "2014-01-01", "event": "Story spreads on YouTube horror narration channels with millions of cumulative views", "significance": "Peak viral phase; many viewers begin sharing it as a genuine Soviet record", "source": "Snopes (2019)" },
+      { "date": "2019-01-01", "event": "Snopes publishes fact-check confirming the story is fiction", "significance": "Authoritative debunking widely cited thereafter", "source": "Snopes.com" },
+      { "date": "2022-01-01", "event": "Feature film adaptation 'The Soviet Sleep Experiment' (dir. Barry Andersson) is released, starring Chris Kattan", "significance": "High-profile screen adaptation", "source": "IMDb / press coverage" }
+    ],
+    "modern_era": "The Russian Sleep Experiment is now a standard reference case in academic discussions of digital legend and creepypasta. It is also a reliable test case for media-literacy programmes because its 'declassified-document' framing continues to convince first-time readers despite long-standing debunkings."
   },
+
   "sightings": {
     "statistics": {
-      "total_documented": 0,
+      "total_documented": 1,
       "verified": 0,
       "disputed": 0,
-      "debunked": 0
+      "debunked": 1,
+      "date_range": { "earliest": "2010-08-10", "latest": "2010-08-10" }
     },
-    "notable": [],
+    "notable": [
+      {
+        "id": "rse-2010-original-post",
+        "name": "Original Creepypasta Wiki post by 'OrangeSoda'",
+        "date": { "value": "2010-08-10", "precision": "exact" },
+        "location": {
+          "description": "Creepypasta Wiki (Wikidot), an internet horror-fiction site",
+          "country": "United States"
+        },
+        "witnesses": { "count": 0, "types": ["Internet readership"], "credibility_factors": ["Wiki edit history"] },
+        "description": "User 'OrangeSoda' posts the text of 'The Russian Sleep Experiment' on the Creepypasta Wiki. The story claims to describe a Soviet experiment in which five prisoners are kept awake for 15 days by a stimulant gas and descend into psychosis and self-mutilation. The post is the canonical origin of the creepypasta.",
+        "evidence": ["Wiki edit history", "Subsequent reposts and translations"],
+        "credibility": { "rating": "high", "factors": ["Wiki edit history is independently verifiable"], "notes": "The 'event' here is the publication of the fiction, not any real experiment." },
+        "sources": ["Snopes (2019)", "Creepypasta Wiki edit history"],
+        "featured": true
+      }
+    ],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
     "video": [],
     "audio": [],
-    "trace": []
+    "trace": [],
+    "documentary": [
+      {
+        "id": "rse-evidence-creepypasta-post",
+        "type": "internet post",
+        "name": "Original Creepypasta Wiki entry",
+        "date": "2010-08-10",
+        "description": "The original text of 'The Russian Sleep Experiment' as posted on the Creepypasta Wiki.",
+        "status": "verified",
+        "analysis": "Verified as the originating text by Snopes and by independent inspection of the wiki's revision history.",
+        "url": "https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment",
+        "source": "Creepypasta Wiki"
+      },
+      {
+        "id": "rse-evidence-snopes-2019",
+        "type": "fact check",
+        "name": "Snopes fact-check (2019)",
+        "date": "2019",
+        "description": "Snopes article assessing the story; rated as fiction with no real-world Soviet referent.",
+        "status": "verified",
+        "analysis": "One of the key authoritative debunkings cited by news outlets and academics.",
+        "url": "https://www.snopes.com/fact-check/russian-sleep-experiment/",
+        "source": "Snopes.com"
+      }
+    ]
   },
+
   "theories": {
     "paranormal": [],
-    "scientific": [],
-    "skeptical": []
+    "scientific": [
+      {
+        "name": "Sleep deprivation does not produce the effects described",
+        "description": "Real-world sleep-deprivation research (e.g. the 1964 Randy Gardner case at 264 hours awake, and laboratory studies in healthy volunteers) produces cognitive impairment, microsleeps, and transient psychotic-like symptoms, but no observed self-evisceration, transformation, or sustained superhuman strength.",
+        "proponents": ["Sleep researchers (general)"],
+        "evidence_cited": ["Documented sleep-deprivation literature", "Absence of any peer-reviewed report of the alleged Soviet experiment"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Internet creepypasta",
+        "description": "The Russian Sleep Experiment is a faux-document horror fiction posted to the Creepypasta Wiki in 2010. There is no archival, journalistic, or scientific evidence of any such Soviet experiment.",
+        "proponents": ["Snopes", "news.com.au", "LiveAbout", "Creepypasta Wiki staff"],
+        "evidence_cited": ["Wiki edit history", "Absence of corroborating Soviet archival material", "Author handle 'OrangeSoda' identified in the wiki history"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Internet creepypasta",
+        "Faux-declassified-document horror"
+      ],
+      "stories": [
+        "OrangeSoda original post (2010)",
+        "YouTube horror narration adaptations (e.g. CreepsMcPasta, MrCreepyPasta)"
+      ],
+      "beliefs": "Frequently mistaken for a genuine Soviet record by casual readers; treated by online horror communities as a canonical fictional reference."
     },
     "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
+      "literature": [
+        "Jeremy Bates — 'The Sleep Experiment' (2019, novel inspired by the creepypasta)"
+      ],
+      "film_tv": [
+        "The Russian Sleep Experiment (dir. John Farrelly, 2022)",
+        "The Soviet Sleep Experiment (dir. Barry Andersson, 2022, starring Chris Kattan)"
+      ],
+      "other": [
+        "Featured in numerous YouTube horror narrations with multi-million view counts",
+        "Cited in academic discussion of digital folklore (e.g. Tosha R. Taylor in 'The Palgrave Handbook of Contemporary Gothic')"
+      ]
     }
   },
+
   "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
+    "researchers": [
+      { "name": "Tosha R. Taylor", "affiliation": "Independent scholar", "contribution": "Academic analysis of the story's role in contemporary digital Gothic folklore in 'The Palgrave Handbook of Contemporary Gothic'", "period": "2020s" }
+    ],
+    "organizations": [
+      { "name": "Snopes", "url": "https://www.snopes.com", "focus": "Fact-checking of internet folklore and viral claims, including the Russian Sleep Experiment" },
+      { "name": "Creepypasta Wiki", "url": "https://creepypasta.fandom.com", "focus": "Original publication and curation of the text" }
+    ],
+    "ongoing_studies": "Continuing scholarly engagement under the rubric of digital folklore and creepypasta studies."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-russian-sleep-experiment", "type": "website", "title": "Russian Sleep Experiment — Wikipedia", "url": "https://en.wikipedia.org/wiki/Russian_Sleep_Experiment", "accessed": "2026-05-07" },
+    { "id": "creepypasta-wiki", "type": "website", "title": "The Russian Sleep Experiment", "publication": "Creepypasta Wiki", "url": "https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment", "accessed": "2026-05-07" },
+    { "id": "snopes-rse", "type": "website", "title": "Did the 'Russian Sleep Experiment' Really Happen?", "publication": "Snopes", "url": "https://www.snopes.com/fact-check/russian-sleep-experiment/", "accessed": "2026-05-07" },
+    { "id": "bates-2019", "type": "book", "title": "The Sleep Experiment", "authors": ["Jeremy Bates"], "publication": "Ghillinnein Books", "date": "2019", "isbn": "978-1988091365" }
+  ]
 }
